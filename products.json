@@ -1,17 +1,17 @@
 [
-    {
-        "name": "BBQ Cover",
-        "price": 11,
-        "img_url": "https://images-eu.ssl-images-amazon.com/images/I/51VuetwWyfL.__AC_SX300_SY300_QL70_ML2_.jpg"
-    },
-    {
-        "name": "Swimming Pool",
-        "price": 100,
-        "img_url": "https://m.media-amazon.com/images/I/61SRax-eJPL._AC_UY218_.jpg"
-    },
-    {
-        "name": "Suncream",
-        "price": 5,
-        "img_url": "https://images-eu.ssl-images-amazon.com/images/I/61ZO-BYtHDL.__AC_SX300_SY300_QL70_ML2_.jpg"
-    }
+  {
+   "name": "BBQ Cover",
+   "price": 11,
+   "img_url": "https://images-eu.ssl-images-amazon.com/images/I/919ZCPcgipL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "name": "Swimming pool",
+    "price": 100,
+    "img_url": "https://images-eu.ssl-images-amazon.com/images/I/61JHFyt90hL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "name": "Suncream",
+    "price": 5,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/71VExbL6BYL._AC_SL1500_.jpg"
+  }
 ]
