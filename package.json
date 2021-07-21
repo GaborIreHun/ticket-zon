@@ -1,0 +1,19 @@
+{
+  "name": "product-list",
+  "version": "1.0.0",
+  "description": "A product catalog",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.18.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2"
+  }
+}

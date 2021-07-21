@@ -1,0 +1,11 @@
+{
+  "name": "product-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "DevOps",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.19.1"
+  }
+}
